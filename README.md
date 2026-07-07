@@ -6,3 +6,14 @@ Tech Translator (Enterprise Sales / Consultant / Creator)
 
 
 ___
+
+MEDDICC - SPIN Selling - BANT - Solution Selling - Consultation
+
+Salesforce | Hubspot | Microsoft Dynamics 365 |
+
+SQL | Python | Excel | Tableau | SPSS | watsonX | 
+
+
+LinkedIn Sales Navigator | ZoomInfo | Salesloft | Outreach | RocketReach | 
+
+Slack - Teams - Zoom - Trello - Figma - Miro - Sheets - Webex
