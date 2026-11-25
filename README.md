@@ -17,3 +17,5 @@ SQL | Python | Excel | Tableau | SPSS | watsonX |
 LinkedIn Sales Navigator | ZoomInfo | Salesloft | Outreach | RocketReach | 
 
 Slack - Teams - Zoom - Trello - Figma - Miro - Sheets - Webex
+
+Brand Marketing & Content - www.blindmikecreative.com
